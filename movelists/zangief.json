@@ -20,6 +20,10 @@
 				"input": "{close} :b: {or} :f:+[MP]"
 			},
 			{
+				"name": "Body Slam",
+				"input": "{close} :db: {or} :df:+[MP]"
+			},
+			{
 				"name": "Brain Buster",
 				"input": "{close} :b: {or} :f:+[HP]"
 			},
@@ -28,9 +32,9 @@
 				"input": "{close} :b: {or} :f:+[MK]"
 			},
 			{
-				"name": "Body Slam",
+				"name": "Powerbomb",
 				"input": "{close} :b: {or} :f:+[HK]"
-			},
+			},			
 			{
 				"name": "Launcher",
 				"input": "{close} :d:+[HP]"
