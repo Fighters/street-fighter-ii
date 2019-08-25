@@ -28,7 +28,7 @@
 				"input": "{inAirAndClose} :b: {or} :f:+[MP] {or} [HP]"
 			},
 			{
-				"name": "Flying Buster Chop",
+				"name": "Flying Buster Drop",
 				"input": "{inAirAndClose} :b: {or} :f:+[MK] {or} [HK]"
 			}	
 		],
