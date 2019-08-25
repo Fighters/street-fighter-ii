@@ -27,7 +27,7 @@
 		"{unique-attacks}": [
 			{
 				"name": "Yosokyaku",
-				"input": "{inAir}, :d:+[MK] {upTo2x}"
+				"input": "{inAir}, :d:+[MK] {upTo3x}"
 			},
 			{
 				"name": "Wall Jump",
