@@ -1,0 +1,22 @@
+{
+    "buttons": {
+        "Arcade": [
+            { "image": "layout.webp" },
+            { "LP": "LP" },
+            { "MP": "MP" },
+            { "HP": "HP" },
+            { "LK": "LK" },
+            { "MK": "MK" },
+            { "HK": "HK" }
+        ],
+        "Super Nintendo": [
+            { "LP": "X" },
+            { "MP": "Y" },
+            { "HP": "L" },
+            { "LK": "B" },
+            { "MK": "A" },
+            { "HK": "R" }
+        ]
+    },
+    "hasUpgrades": false
+}
