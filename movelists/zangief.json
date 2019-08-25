@@ -56,6 +56,10 @@
 			{
 				"name": "Flying Body Press",
 				"input": "{duringAngledJump} :d:+[HP]"
+			},
+			{
+				"name": "Flying Head Butt",
+				"input": "{duringVerticalJump} :u:+[HP]"
 			}
 		],
 		"{special-moves}": [
