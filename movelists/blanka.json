@@ -26,10 +26,6 @@
 				"input": "{close} :b: {or} :f:+[MP]"
 			},
 			{
-				"name": "Double Knee Attack",
-				"input": "{close} :b: {or} :f:+[MK]"
-			},
-			{
 				"name": "Standing Sweep",
 				"input": "{close} :b: {or} :f:+[HK]"
 			}
