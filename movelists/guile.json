@@ -1,15 +1,14 @@
 {
-	"names": [
-		{
-			"region": "default",
+	"names": {
+		"default":{
 			"roman": "Guile"
 		},
-		{
+		"japan": {
 			"region": "japan",
 			"roman": "Guile",
 			"original": "ガイル"
 		}
-	],
+	},
 	"images": {
 		"face": "guile.webp"
 	},
