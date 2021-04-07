@@ -30,24 +30,24 @@
 				"input": "{close} :b: {or} :f:+[HK]"
 			},
 			{
-				"name": "Body Slam",
+				"name": "Deadly Drive",
 				"input": "{close} :d:+[MP]"
 			},		
 			{
-				"name": "Launcher",
+				"name": "Leg Throw",
 				"input": "{close} :d:+[HP]"
 			},
 			{
-				"name": "Face Crunch",
+				"name": "Iron Claw",
 				"input": "{1StepAway} :b: {or} :f:+[MP]"
 			},
 			{
-				"name": "Head Bite",
+				"name": "Bite",
 				"input": "{1StepAway} :b: {or} :f:+[HP]"
 			},
 			{
-				"name": "Stomach Crunch",
-				"input": "{1StepAway} :d:+[MP]"
+				"name": "Stomach Claw",
+				"input": "{1StepAway} :d:+[MP] {or} [HP]"
 			}
 		],
 		"{uniqueAttacks}": [

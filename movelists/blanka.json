@@ -22,10 +22,6 @@
 			{
 				"name": "Rock Crusher",
 				"input": "{close} :b: {or} :f:+[MP]"
-			},
-			{
-				"name": "Standing Sweep",
-				"input": "{close} :b: {or} :f:+[HK]"
 			}
 		],
 		"{specialMoves}": [
