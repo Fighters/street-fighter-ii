@@ -15,21 +15,21 @@
 		"{normalThrows}": [
 			{
 				"name": "Yoga Smash",
-				"input": "{close} :b: {or} :f:+[MP]"
+				"input": "{close}, :b: {or} :f:+[MP]"
 			},
 			{
 				"name": "Yoga Throw",
-				"input": "{close} :b: {or} :f:+[HP]"
+				"input": "{close}, :b: {or} :f:+[HP]"
 			}
 		],
 		"{uniqueAttacks}": [
 			{
 				"name": "Yoga Mummy",
-				"input": "{atJumpApex} :d:+[HP]"
+				"input": "{atJumpApex}, :d:+[HP]"
 			},
 			{
 				"name": "Yoga Spear",
-				"input": "{atJumpApex} :d:+[HK]"
+				"input": "{atJumpApex}, :d:+[HK]"
 			}
 		],
 		"{specialMoves}": [
