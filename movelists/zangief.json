@@ -15,63 +15,63 @@
 		"{normalThrows}": [
 			{
 				"name": "Piledriver",
-				"input": "{close} :b: {or} :f:+[MP]"
+				"input": "{close}, :b: {or} :f:+[MP]"
 			},			
 			{
 				"name": "Brain Buster",
-				"input": "{close} :b: {or} :f:+[HP]"
+				"input": "{close}, :b: {or} :f:+[HP]"
 			},
 			{
 				"name": "Suplex",
-				"input": "{close} :b: {or} :f:+[MK]"
+				"input": "{close}, :b: {or} :f:+[MK]"
 			},
 			{
 				"name": "Powerbomb",
-				"input": "{close} :b: {or} :f:+[HK]"
+				"input": "{close}, :b: {or} :f:+[HK]"
 			},
 			{
 				"name": "Deadly Drive",
-				"input": "{close} :d:+[MP]"
+				"input": "{close}, :d:+[MP]"
 			},		
 			{
 				"name": "Leg Throw",
-				"input": "{close} :d:+[HP]"
+				"input": "{close}, :d:+[HP]"
 			},
 			{
 				"name": "Iron Claw",
-				"input": "{1StepAway} :b: {or} :f:+[MP]"
+				"input": "{1StepAway}, :b: {or} :f:+[MP]"
 			},
 			{
 				"name": "Bite",
-				"input": "{1StepAway} :b: {or} :f:+[HP]"
+				"input": "{1StepAway}, :b: {or} :f:+[HP]"
 			},
 			{
 				"name": "Stomach Claw",
-				"input": "{1StepAway} :d:+[MP] {or} [HP]"
+				"input": "{1StepAway}, :d:+[MP] {or} [HP]"
 			}
 		],
 		"{uniqueAttacks}": [
 			{
 				"name": "Double Knee Drop",
-				"input": "{duringAngledJump} :d:+[LK]"
+				"input": "{duringAngledJump}, :d:+[LK]"
 			},
 			{
 				"name": "Flying Body Press",
-				"input": "{duringAngledJump} :d:+[HP]"
+				"input": "{duringAngledJump}, :d:+[HP]"
 			},
 			{
 				"name": "Flying Head Butt",
-				"input": "{duringVerticalJump} :u:+[MP] {or} [HP]"
+				"input": "{duringVerticalJump}, :u:+[MP] {or} [HP]"
 			}
 		],
 		"{specialMoves}": [
 			{
 				"name": "Double Lariat",
-				"input": "[LP]+[MP]+[HP]"
+				"input": "{press} [LP]+[MP]+[HP]"
 			},
 			{
 				"name": "Spinning Piledriver",
-				"input": "{close} :360:+[P]"
+				"input": "{close}, :360:+[P]"
 			}
 		]
 	},
