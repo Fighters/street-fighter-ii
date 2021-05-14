@@ -1,27 +1,29 @@
-
 {
-	"romans": {
-		"regions": [
-			{ 
-				"region": "default",
-				"roman": "Street Fighter II"
-			},
-			{
-				"region": "japan",
-				"roman": "Street Fighter II -The World Warrior-",
-				"original": "ストリートファイターⅡ -The World Warrior-"
-			}
-		],
-		"also-known-as": [
-			"sf2", "street", "sfII", "sf2ww", "street fighter 2", "vanilla sf2"
-		]
-	},
+	"names": [
+		{
+			"region": "default",
+			"roman": "Street Fighter II"
+		},
+		{
+			"region": "japan",
+			"roman": "Street Fighter II -The World Warrior-",
+			"original": "ストリートファイターⅡ -The World Warrior-"
+		}
+	],
+	"also-known-as": [
+		"sf2",
+		"street",
+		"sfII",
+		"sf2ww",
+		"street fighter 2",
+		"vanilla sf2"
+	],
 	"platforms": [
 		{
-			"platform": "Arcade",
+			"name": "Arcade",
 			"regions": [
 				{
-					"region": "Japan",
+					"name": "Japan",
 					"roman": "Street Fighter II -The World Warrior-",
 					"original": "ストリートファイターⅡ -The World Warrior-",
 					"releaseDate": "03-1991",
@@ -29,7 +31,7 @@
 					"publisher": "Capcom"
 				},
 				{
-					"region": "United States",
+					"name": "United States",
 					"roman": "Street Fighter II: The World Warrior",
 					"releaseDate": "1991",
 					"developer": "Capcom",
@@ -38,10 +40,10 @@
 			]
 		},
 		{
-			"platform": "Super Nintendo",
+			"name": "Super Nintendo",
 			"regions": [
 				{
-					"region": "Japan",
+					"name": "Japan",
 					"roman": "Street Fighter II",
 					"original": "ストリートファイターⅡ",
 					"releaseDate": "06-10-1992",
@@ -50,7 +52,7 @@
 					"coverFront": "snes_jp_front.webp"
 				},
 				{
-					"region": "United States",
+					"name": "United States",
 					"roman": "Street Fighter II",
 					"releaseDate": "07-15-1992",
 					"developer": "Capcom",
@@ -58,7 +60,7 @@
 					"coverFront": "snes_us_front.webp"
 				},
 				{
-					"region": "Europe",
+					"name": "Europe",
 					"roman": "Street Fighter II",
 					"releaseDate": "1992",
 					"developer": "Capcom",
@@ -68,10 +70,10 @@
 			]
 		},
 		{
-			"platform": "Game Boy",
+			"name": "Game Boy",
 			"regions": [
 				{
-					"region": "Japan",
+					"name": "Japan",
 					"roman": "Street Fighter II",
 					"original": "ストリートファイターⅡ",
 					"releaseDate": "08-11-1995",
@@ -80,7 +82,7 @@
 					"coverFront": "gb_jp_front.webp"
 				},
 				{
-					"region": "United States",
+					"name": "United States",
 					"roman": "Street Fighter II",
 					"releaseDate": "09-1995",
 					"developer": "Capcom",
@@ -88,7 +90,7 @@
 					"coverFront": "gb_us_front.webp"
 				},
 				{
-					"region": "Europe",
+					"name": "Europe",
 					"roman": "Street Fighter II",
 					"releaseDate": "1995",
 					"developer": "Capcom",
@@ -98,248 +100,90 @@
 			]
 		},
 		{
-			"platform": "Commodore 64",
+			"name": "Commodore 64",
 			"regions": [
 				{
-                    "region": "Europe",
-                    "roman": "Street Fighter II",
-                    "releaseDate": "1992",
-                    "developer": "Creative Materials",
-                    "publisher": "U.S. Gold",
-                    "coverFront": "c64_eu_front.webp"
-                }
+					"name": "Europe",
+					"roman": "Street Fighter II",
+					"releaseDate": "1992",
+					"developer": "Creative Materials",
+					"publisher": "U.S. Gold",
+					"coverFront": "c64_eu_front.webp"
+				}
 			]
 		},
 		{
-			"platform": "Amiga",
+			"name": "Amiga",
 			"regions": [
 				{
-                    "region": "Europe",
-                    "roman": "Street Fighter II",
-                    "releaseDate": "1992",
-                    "developer": "Creative Materials",
-                    "publisher": "U.S. Gold",
-                    "coverFront": "amiga_eu_front.webp"
-                }
+					"name": "Europe",
+					"roman": "Street Fighter II",
+					"releaseDate": "1992",
+					"developer": "Creative Materials",
+					"publisher": "U.S. Gold",
+					"coverFront": "amiga_eu_front.webp"
+				}
 			]
 		},
 		{
-			"platform": "PC",
+			"name": "PC",
 			"regions": [
 				{
-                    "region": "Europe",
-                    "roman": "Street Fighter II",
-                    "releaseDate": "1992",
-                    "developer": "Capcom",
-                    "publisher": "U.S. Gold",
-                    "coverFront": "pc_eu_front.webp"
-                },
-                {
-                    "region": "United States",
-                    "roman": "Street Fighter II",
-                    "releaseDate": "1993",
-                    "developer": "Capcom",
-                    "publisher": "Hi-Tech",
-                    "coverFront": "pc_us_front.webp"
-                }
+					"name": "Europe",
+					"roman": "Street Fighter II",
+					"releaseDate": "1992",
+					"developer": "Capcom",
+					"publisher": "U.S. Gold",
+					"coverFront": "pc_eu_front.webp"
+				},
+				{
+					"name": "United States",
+					"roman": "Street Fighter II",
+					"releaseDate": "1993",
+					"developer": "Capcom",
+					"publisher": "Hi-Tech",
+					"coverFront": "pc_us_front.webp"
+				}
 			]
 		},
 		{
-			"platform": "Atari ST",
+			"name": "Atari ST",
 			"regions": [
 				{
-                    "region": "Europe",
-                    "roman": "Street Fighter II",
-                    "releaseDate": "1992",
-                    "developer": "Creative Materials",
-                    "publisher": "U.S. Gold",
-                    "coverFront": "atarist_eu_front.webp"
-                }
+					"name": "Europe",
+					"roman": "Street Fighter II",
+					"releaseDate": "1992",
+					"developer": "Creative Materials",
+					"publisher": "U.S. Gold",
+					"coverFront": "atarist_eu_front.webp"
+				}
 			]
 		},
 		{
-			"platform": "ZX Spectrum",
+			"name": "ZX Spectrum",
 			"regions": [
 				{
-                    "region": "Europe",
-                    "roman": "Street Fighter II",
-                    "releaseDate": "1993",
-                    "developer": "Tiertex",
-                    "publisher": "U.S. Gold",
-                    "coverFront": "zxspectrum_eu_front.webp"
-                }
+					"name": "Europe",
+					"roman": "Street Fighter II",
+					"releaseDate": "1993",
+					"developer": "Tiertex",
+					"publisher": "U.S. Gold",
+					"coverFront": "zxspectrum_eu_front.webp"
+				}
 			]
 		},
 		{
-			"platform": "Master System",
+			"name": "Master System",
 			"regions": [
 				{
-                    "region": "South America",
-                    "roman": "Street Fighter II",
-                    "releaseDate": "1997",
-                    "developer": "Tec Toy",
-                    "publisher": "Tec Toy",
-                    "coverFront": "master_sa_front.webp"
-                }
+					"name": "South America",
+					"roman": "Street Fighter II",
+					"releaseDate": "1997",
+					"developer": "Tec Toy",
+					"publisher": "Tec Toy",
+					"coverFront": "master_sa_front.webp"
+				}
 			]
 		}
-	],
-	"characters": [
-		{ 
-			"regions": [
-				{
-					"region": "default",
-					"roman": "Ryu"
-				},
-				{
-					"region": "japan",
-					"roman": "Ryu",
-					"original": "リュウ"
-				}
-			]
-		},
-		{ 
-			"regions": [
-				{
-					"region": "default",
-					"roman": "Ken Masters"
-				},
-				{
-					"region": "japan",
-					"roman": "Ken Masters",
-					"original": "ケン・マスターズ"
-				}
-			]
-		},
-		{ 
-			"regions": [
-				{
-					"region": "default",
-					"roman": "Chun-Li"
-				},
-				{
-					"region": "japan",
-					"roman": "Chun-Li",
-					"original": "チュンリー"
-				}
-			]
-		},
-		{ 
-			"regions": [
-				{
-					"region": "default",
-					"roman": "Dhalsim"
-				},
-				{
-					"region": "japan",
-					"roman": "Dhalsim",
-					"original": "ダルシム"
-				}
-			]
-		},
-		{ 
-			"regions": [
-				{
-					"region": "default",
-					"roman": "M. Bison"
-				},
-				{
-					"region": "japan",
-					"roman": "Vega",
-					"original": "ベガ"
-				}
-			]
-		},
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Vega"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Balrog",
-                    "original": "バルログ"
-                }
-            ]
-        },
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Zangief"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Zangief",
-                    "original": "ザンギエフ"
-                }
-            ]
-        },
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Guile"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Guile",
-                    "original": "ガイル"
-                }
-            ]
-        },
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Balrog"
-                },
-                {
-                    "region": "japan",
-                    "roman": "M. Bison",
-                    "original": "マイク・バイソン"
-                }
-            ]
-        },        
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Blanka"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Blanka",
-                    "original": "ブランカ"
-                }
-            ]
-        },        
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Sagat"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Sagat",
-                    "original": "サガット"
-                }
-            ]
-        },        
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Edmond Honda"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Edmond Honda",
-                    "original": "エドモンド本田"
-                }
-            ]
-        }        
 	]
 }
